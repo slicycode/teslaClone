@@ -1,4 +1,4 @@
-# todoList
+# Tesla-Clone app
 This is my second project with React Native. 
 A Tesla-Clone app with a basic feed which displays Tesla's cars.
 
