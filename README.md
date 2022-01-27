@@ -1,6 +1,10 @@
 # Tesla-Clone app
 
-https://user-images.githubusercontent.com/60575576/151386964-db415575-4919-4565-bb83-6e4e0b86d4c9.mp4
+
+
+https://user-images.githubusercontent.com/60575576/151387165-7a1c245f-0e26-4488-8275-5f306d7b747c.mp4
+
+
 
 This is my second project with React Native. 
 A Tesla-Clone app with a basic feed which displays Tesla's cars.
